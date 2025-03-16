@@ -29,6 +29,7 @@ Make sure to mount the volume to the /app directory in the container as shown be
 
 
 ## todo:
+
 - [ ] Add a feature to generate a qr code directly from the cli
 - [ ] Add a web service to host the qr code generator
 - [ ] Add a serverless function to generate a qr code
